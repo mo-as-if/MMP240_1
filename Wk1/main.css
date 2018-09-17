@@ -1,0 +1,8 @@
+body{
+			background-color: gold;
+			font-family: "Comic Sans MS", cursive, sans-serif;
+			background: url(pic1.jpg) no-repeat center center fixed;
+            background-size: cover;
+            text-align: center;
+                margin-top: 20%;
+		}

@@ -1,0 +1,10 @@
+body { 
+    background-color: black;
+    text-align: center;
+       margin-top: 20%;
+       font-family: fantasy;   
+}
+
+h1 { color: aqua;}
+p { color: aqua;
+    font-family: monospace}

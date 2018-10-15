@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+       margin-top: 20%;
+       font-family: fantasy;
+}
+
+h1, h3 { color: aqua;
+}
+
+p { color: aqua;
+    font-family: monospace;
+    margin: 0 auto;
+    width: 80%;
+  }
+
+a:hover {
+  color: purple;
+}
+
+a:visited {
+  color: crimson;
+}

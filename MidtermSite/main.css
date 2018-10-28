@@ -1,0 +1,71 @@
+<style>
+
+    body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+  body{
+    background-color: green;
+  }
+
+  header{
+        height: 300px;
+        margin-top: 50px;
+        border: 5px solid #1B3708;
+        background-image: url(cannabis.png);
+        text-align: center;
+        color: #1B3708;
+        font-family: 'Lobster', cursive;
+    }
+
+ul{
+      font-family: 'Teko', sans-serif;
+    }
+
+    a{
+      color: #001EB4;
+    }
+
+  a:hover {
+      color: #1B3708;
+    }
+
+  a:visited {
+      color: #81F73D;
+    }
+
+.container{
+  height: 400px;
+  margin-top: 50px;
+  border: 5px solid #1B3708;
+  background-image: url(cannabis.png);
+  text-align: center;
+  color: #1B3708;
+  font-family: 'Teko', sans-serif;
+}
+    aside{
+        height: 400px;
+        width: 49%;
+        font-family: 'Teko', sans-serif;
+        color: #1B3708;
+        text-align: center;
+        margin-top: 50px;
+        border: 5px solid #1B3708;
+        background-image: url(cannabis.png);
+        float: left;
+    }
+
+    article{
+        height: 400px;
+        width: 49%;
+        font-family: 'Teko', sans-serif;
+        color: #1B3708;
+        text-align: center;
+        margin-top: 50px;
+        border: 5px solid #1B3708;
+        background-image: url(cannabis.png);
+        float: left;
+    }
+
+    </style>

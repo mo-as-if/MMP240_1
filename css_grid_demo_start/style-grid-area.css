@@ -1,0 +1,32 @@
+@media screen and (min-width: 800px){
+
+.site{
+  display: grid;
+  grid-template-columns: repeat (3, 1fr);
+  grid-template-areas:
+  "nav nav nav"
+  "side head head"
+  "side main footer"
+}
+
+.masthead{
+  grid-area: nav;
+}
+
+.sidebar{
+  grid-area: side;
+}
+
+.page-title{
+  grid-area: head;
+}
+
+.main-content{
+  grid-area: main;
+}
+
+.footer-content{
+  grid-area: footer;
+}
+
+}

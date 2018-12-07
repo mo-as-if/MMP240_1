@@ -1,0 +1,22 @@
+#welcome {
+		background: url(welcome.jpg) no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    margin-top: 27%;
+		}
+h1 {
+  font-family: 'Exo 2', sans-serif, bold;
+}
+
+p{
+  font-family: 'Exo 2', sans-serif, medium;
+  color: #1d7f9a;
+}
+
+body{
+  background-color: black;
+}
+
+nav{
+  text-align: center;
+}
